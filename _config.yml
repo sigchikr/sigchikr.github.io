@@ -1,0 +1,18 @@
+title: SIGCHI Korea Local Chapter
+description: SIGCHI Korea Local Chapter - Official Website
+
+# disabled because we are using a custom domain
+#baseurl: /business-frontpage 
+
+#color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#e9a038"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
