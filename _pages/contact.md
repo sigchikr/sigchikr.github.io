@@ -27,7 +27,7 @@ permalink: /contact/
         <h4>Sponsors</h4>
         <p>
             If you would like to sponsor the local chapter activities, please
-            contact the chair! (Uichin Lee, <a href="mailto:uclee@kaist.ac.kr">uclee@kaist.ac.kr</a>).
+            contact the chairs!.
         </p>
 
     </div>
