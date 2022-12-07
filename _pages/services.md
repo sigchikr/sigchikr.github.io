@@ -3,8 +3,6 @@ layout: default
 permalink: /services/
 ---
 
-## Full length services page
-
 <div class="menu_template" id="menu_courses" style="">
     <div class="card">
         <div class="card-body">
