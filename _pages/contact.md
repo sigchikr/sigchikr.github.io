@@ -27,7 +27,7 @@ permalink: /contact/
         <h4>Sponsors</h4>
         <p>
             If you would like to sponsor the local chapter activities, please
-            contact the chairs!.
+            contact us! (<a href="mailto:@sigchi.kr">contact@sigchi.kr</a>).
         </p>
 
     </div>
