@@ -6,11 +6,12 @@ permalink: /services/
 <div class="menu_template" id="menu_courses" style="">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">SIGCHI Korea Summer Event 2022</h5>
+            <h5 class="card-title">HCI Korea 2023 Panel Talk</h5>
+            <h6 class="card-title">How to Become a World-leading HCI Researcher in Korea</h6>
             <ul class="card-text">
-                <li>Friday, July 8th 2022</li>
-                <li>University of Seoul, Seoul, South Korea</li>
-                <li>🏘️ <a href="https://2022summer.sigchi.kr/">https://2022summer.sigchi.kr/</a></li>
+                <li>Thursday, Feb 2nd 2023</li>
+                <li>High One Resort. Kangwon-do, Jeongseon. South Korea</li>
+                <li>🏘️ <a href="https://sites.google.com/view/hcikorea-2023-panel-session/">https://sites.google.com/view/hcikorea-2023-panel-session/</a></li>
                 <li>📧 contact@sigchi.kr</li>
             </ul>
         </div>
@@ -18,12 +19,11 @@ permalink: /services/
     <br>
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">HCI Korea 2023 Panel Talk</h5>
-            <h6 class="card-title">How to Become a World-leading HCI Researcher in Korea</h6>
+            <h5 class="card-title">SIGCHI Korea Summer Event 2022</h5>
             <ul class="card-text">
-                <li>Thursday, Feb 2nd 2023</li>
-                <li>High One Resort. Kangwon-do, Jeongseon. South Korea</li>
-                <li>🏘️ <a href="https://sites.google.com/view/hcikorea-2023-panel-session/">https://sites.google.com/view/hcikorea-2023-panel-session/</a></li>
+                <li>Friday, July 8th 2022</li>
+                <li>University of Seoul, Seoul, South Korea</li>
+                <li>🏘️ <a href="https://2022summer.sigchi.kr/">https://2022summer.sigchi.kr/</a></li>
                 <li>📧 contact@sigchi.kr</li>
             </ul>
         </div>
