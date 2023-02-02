@@ -37,7 +37,7 @@ permalink: /contact/
             <p>
                 You can change your mind at any time by contacting us at <a href="mailto:@sigchi.kr">contact@sigchi.kr</a>. 
                 We will treat your information with respect.
-                <!--By clicking the button, you agree that we may process your information in accordance with <a href="#">Privacy Policy</a> and <a href="#">Terms--></a>.
+                <!--By clicking the button, you agree that we may process your information in accordance with <a href="#">Privacy Policy</a> and <a href="#">Terms</a>.-->
             </p>
 
             <div style="float:right;">
