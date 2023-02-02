@@ -2,7 +2,6 @@
 layout: default
 permalink: /services/
 ---
-
 <div class="menu_template" id="menu_courses" style="">
     <div class="card">
         <div class="card-body">
