@@ -23,7 +23,7 @@ permalink: /services/
             <ul class="card-text">
                 <li>Friday, July 8th 2022</li>
                 <li>University of Seoul, Seoul, South Korea</li>
-                <li>🏘️ <a href="https://2022summer.sigchi.kr/">https://2022summer.sigchi.kr/</a></li>
+                <li><a href="https://2022summer.sigchi.kr/">https://2022summer.sigchi.kr/</a></li>
                 <li>📧 contact@sigchi.kr</li>
             </ul>
         </div>
