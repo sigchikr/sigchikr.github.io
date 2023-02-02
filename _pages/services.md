@@ -19,7 +19,7 @@ permalink: /services/
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">HCI Korea 2023 Panel Talk</h5>
-            <h4 class="card-title">How to Become a World-leading HCI Researcher in Korea</h4>
+            <h6 class="card-title">How to Become a World-leading HCI Researcher in Korea</h6>
             <ul class="card-text">
                 <li>Thursday, Feb 2nd 2023</li>
                 <li>High One Resort. Kangwon-do, Jeongseon. South Korea</li>
