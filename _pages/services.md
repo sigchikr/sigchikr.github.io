@@ -11,7 +11,7 @@ permalink: /services/
             <ul class="card-text">
                 <li>Thursday, Feb 2nd 2023</li>
                 <li>High One Resort. Kangwon-do, Jeongseon. South Korea</li>
-                <li><a href="https://sites.google.com/view/hcikorea-2023-panel-session/">https://sites.google.com/view/hcikorea-2023-panel-session/</a></li>
+                <li>🏘️ <a href="https://sites.google.com/view/hcikorea-2023-panel-session/">https://sites.google.com/view/hcikorea-2023-panel-session/</a></li>
                 <li>📧 contact@sigchi.kr</li>
             </ul>
         </div>
@@ -23,7 +23,7 @@ permalink: /services/
             <ul class="card-text">
                 <li>Friday, July 8th 2022</li>
                 <li>University of Seoul, Seoul, South Korea</li>
-                <li><a href="https://2022summer.sigchi.kr/">https://2022summer.sigchi.kr/</a></li>
+                <li>🏘️ <a href="https://2022summer.sigchi.kr/">https://2022summer.sigchi.kr/</a></li>
                 <li>📧 contact@sigchi.kr</li>
             </ul>
         </div>
