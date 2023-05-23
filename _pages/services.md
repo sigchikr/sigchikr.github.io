@@ -5,6 +5,21 @@ permalink: /services/
 <div class="menu_template" id="menu_courses" style="">
     <div class="card">
         <div class="card-body">
+            <h5 class="card-title">SIGCHI Korea Summer Event 2023</h5>
+            <ul class="card-text">
+                <li>Thursday, June 29th 2023</li>
+                <li>
+                    HIT B224, Idea Factory, Hanyang University, Seoul, Korea<br>
+                    (한양대학교 서울캠퍼스 아이디어 팩토리)
+                </li>
+                <li>🏘️ <a href="https://sites.google.com/view/sigchikorea2023">https://sites.google.com/view/sigchikorea2023</a></li>
+                <li>📧 contact@sigchi.kr</li>
+            </ul>
+        </div>
+    </div>
+    <br>    
+    <div class="card">
+        <div class="card-body">
             <h5 class="card-title">HCI Korea 2023 Panel Talk</h5>
             <h6 class="card-title">How to Become a World-leading HCI Researcher in Korea</h6>
             <ul class="card-text">
