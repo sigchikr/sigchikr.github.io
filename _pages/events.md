@@ -12,7 +12,7 @@ permalink: /events/
                     HIT B224, Idea Factory, Hanyang University, Seoul, Korea<br>
                     (한양대학교 서울캠퍼스 아이디어 팩토리)
                 </li>
-                <li>🏘️ <a href="https://sites.google.com/view/sigchikorea2023" target="_blank">https://sites.google.com/view/sigchikorea2023</a></li>
+                <li>🏘️ <a href="https://2023summer.sigchi.kr/" target="_blank">https://2023summer.sigchi.kr/</a></li>
                 <li>📧 contact@sigchi.kr</li>
             </ul>
         </div>
