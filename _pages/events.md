@@ -3,11 +3,11 @@ layout: default
 permalink: /events/
 ---
 <div class="menu_template" id="menu_courses" style="">
-    <div class="card">
+    <div class="card upcoming-event">
         <div class="card-body">
-            <h5 class="card-title">SIGCHI Korea Summer Event 2023</h5>
+            <h5 class="card-title">SIGCHI Korea Summer Event 2023 (Coming soon🎉)</h5>
             <ul class="card-text">
-                <li>Thursday, June 29th 2023</li>
+                <li><u>Thursday, June 29th 2023</u></li>
                 <li>
                     HIT B224, Idea Factory, Hanyang University, Seoul, Korea<br>
                     (한양대학교 서울캠퍼스 아이디어 팩토리)

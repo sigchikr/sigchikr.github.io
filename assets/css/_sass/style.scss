@@ -40,3 +40,15 @@ footer {
   float: left;
   margin-right: 20px;
 }
+
+.upcoming-event {
+  border: 5px solid rgba(0,0,0,0.125);
+  animation-name: blinking;
+  animation-duration: 1s;
+  animation-iteration-count: 100;
+}
+@keyframes blinking {
+  50% {
+    border-color: #ffcd5f;
+  }
+}
