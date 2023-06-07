@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /services/
+permalink: /events/
 ---
 <div class="menu_template" id="menu_courses" style="">
     <div class="card">
