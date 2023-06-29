@@ -3,9 +3,9 @@ layout: default
 permalink: /events/
 ---
 <div class="menu_template" id="menu_courses" style="">
-    <div class="card upcoming-event">
+    <div class="card">
         <div class="card-body">
-            <h5 class="card-title">SIGCHI Korea Summer Event 2023 (Coming soon🎉)</h5>
+            <h5 class="card-title">SIGCHI Korea Summer Event 2023</h5>
             <ul class="card-text">
                 <li><u>Thursday, June 29th 2023</u></li>
                 <li>
