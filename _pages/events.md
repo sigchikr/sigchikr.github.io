@@ -36,12 +36,13 @@ permalink: /events/
     <br>    
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">HCI Korea 2023 Panel Talk</h5>
+            <h5 class="card-title">SIGCHI Korea Winter Event 2023</h5>
+            <h6 class="card-title">HCI Korea 2023 Panel Talk</h6>
             <h6 class="card-title">How to Become a World-leading HCI Researcher in Korea</h6>
             <ul class="card-text">
                 <li>Thursday, Feb 2nd 2023</li>
                 <li>High One Resort. Kangwon-do, Jeongseon. South Korea</li>
-                <li>🏘️ <a href="https://sites.google.com/view/hcikorea-2023-panel-session/" target="_blank">https://sites.google.com/view/hcikorea-2023-panel-session/</a></li>
+                <li>🏘️ <a href="https://sites.google.com/view/hcikorea-2023-panel-session/" target="_blank">https:/2023winter.sigchi.kr/</a></li>
                 <li>📧 contact@sigchi.kr</li>
             </ul>
         </div>
