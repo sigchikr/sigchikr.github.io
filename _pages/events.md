@@ -3,6 +3,22 @@ layout: default
 permalink: /events/
 ---
 <div class="menu_template" id="menu_courses" style="">
+    <div class="card upcoming-event">
+        <div class="card-body">
+            <h5 class="card-title">SIGCHI Korea Winter Event 2024</h5>
+            <h6>Invited Papers Session from 2023 SIGCHI-sponsored Top Conferences</h6>
+            <ul class="card-text">
+                <li><u>Thursday, Jan 25th 2024</u></li>
+                <li>
+                    <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" target="_blank">HCI Korea 2024</a> at Vivaldi Park, Hongcheon-gun. Kangwon-do.<br />
+                    (<a href="https://conference.hcikorea.org/hcik2024/main/main.asp" target="_blank">HCI Korea 2024</a> 강원도 홍천군 비발디파크)
+                </li>
+                <li>🏘️ <a href="https://2024winter.sigchi.kr/" target="_blank">https://2024winter.sigchi.kr/</a></li>
+                <li>📧 contact@sigchi.kr</li>
+            </ul>
+        </div>
+    </div>
+    <br>    
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">SIGCHI Korea Summer Event 2023</h5>
