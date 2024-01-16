@@ -1,4 +1,5 @@
 ---
+title: Event
 layout: default
 permalink: /events/
 ---
@@ -61,3 +62,5 @@ permalink: /events/
     </div>
     <br>
 </div>
+
+<br />
