@@ -32,9 +32,7 @@ permalink: /contact/
             <br>
             <h4>Join our Mailing List</h4>
             <p>
-                Pleaes join in <em>SIGCHI Korea Mailing list</em> for the lastest news and upcoming events.
-            </p>
-            <p>
+                Pleaes join in <em>SIGCHI Korea Mailing list</em> for the lastest news and upcoming events.<br/>
                 You can change your mind at any time by contacting us at <a href="mailto:@sigchi.kr">contact@sigchi.kr</a>. 
                 We will treat your information with respect.
                 <!--By clicking the button, you agree that we may process your information in accordance with <a href="#">Privacy Policy</a> and <a href="#">Terms</a>.-->
