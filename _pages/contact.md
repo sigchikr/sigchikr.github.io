@@ -40,6 +40,8 @@ permalink: /contact/
             <div style="float:right;">
                 <a href="https://forms.gle/1bsYLGhMHwjMQ35R8" target="_blank"><button type="button" class="btn btn-success"><strong>Subscribe</strong></button></a>
             </div>
+
+            <br />
         </div>
     </div>
 </div>
