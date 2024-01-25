@@ -29,7 +29,6 @@ permalink: /contact/
                 If you would like to sponsor the local chapter activities, please contact us! (<a href="mailto:@sigchi.kr">contact@sigchi.kr</a>).
             </p>
 
-            <br>
             <h4>Join our Mailing List</h4>
             <p>
                 Pleaes join in <em>SIGCHI Korea Mailing list</em> for the lastest news and upcoming events.<br/>
