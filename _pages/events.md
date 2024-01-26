@@ -3,8 +3,9 @@ title: Event
 layout: default
 permalink: /events/
 ---
-<div class="menu_template" id="menu_courses" style="">
-    <div class="card upcoming-event">
+<div class="col-md-12">
+    <!-- <div class="card upcoming-event"> -->
+    <div class="card">
         <div class="card-body">
             <h5 class="card-title">SIGCHI Korea Winter Event 2024</h5>
             <h6>Invited Papers Session from 2023 SIGCHI-sponsored Top Conferences</h6>

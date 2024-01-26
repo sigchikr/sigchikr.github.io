@@ -12,7 +12,8 @@ permalink: /contact/
                 opportunity to interact with other like-minded HCI students and
                 professionals in Korea. We will hole Spring/Fall academic
                 workshops where you can share your recent research results with
-                the community members.</p>
+                the community members.
+            </p>
 
             <h4>Volunteers</h4>
             <p>
@@ -42,6 +43,7 @@ permalink: /contact/
             </div>
 
             <br />
+            <p>&nbsp;</p>
             <p>&nbsp;</p>
         </div>
     </div>
