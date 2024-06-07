@@ -7,12 +7,11 @@ permalink: /events/
     <!-- <div class="card upcoming-event"> -->
     <div class="card upcoming-event">
         <div class="card-body">
-            <h5 class="card-title">SIGCHI Korea Summer Event 2024</h5>
-            <h6>Invited Papers Session from 2023 SIGCHI-sponsored Top Conferences</h6>
+            <h5 class="card-title">SIGCHI Korea Summer Event 2024 (Register Now!)</h5>
             <ul class="card-text">
                 <li><u>2:00 PM - 5:30 PM. Tuesday, July 16th, 2024</u></li>
                 <li>
-                    <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" target="_blank">SIGCHI Korea Local Chapter Summer Event</a> at Dong-eui University, Busan | 부산 동의대학교<br />
+                    <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" target="_blank">SIGCHI Korea Local Chapter Summer Workshop</a> at Dong-eui University, Busan | 부산 동의대학교<br />
                 </li>
                 <li>🏘️ <a href="https://2024summer.sigchi.kr/" target="_blank">https://2024summer.sigchi.kr/</a></li>
                 <li>📧 sh.kim (at) deu.ac.kr</li>
