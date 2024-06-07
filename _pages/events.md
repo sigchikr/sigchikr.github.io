@@ -11,7 +11,7 @@ permalink: /events/
             <ul class="card-text">
                 <li><u>2:00 PM - 5:30 PM. Tuesday, July 16th, 2024</u></li>
                 <li>
-                    <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" target="_blank">SIGCHI Korea Local Chapter Summer Workshop</a> at Dong-eui University, Busan | 부산 동의대학교<br />
+                    <a href="https://2024summer.sigchi.kr/" target="_blank">SIGCHI Korea Local Chapter Summer Workshop</a> at Dong-eui University, Busan | 부산 동의대학교<br />
                 </li>
                 <li>🏘️ <a href="https://2024summer.sigchi.kr/" target="_blank">https://2024summer.sigchi.kr/</a></li>
                 <li>📧 sh.kim (at) deu.ac.kr</li>
