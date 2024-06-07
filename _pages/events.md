@@ -11,7 +11,8 @@ permalink: /events/
             <ul class="card-text">
                 <li><u>2:00 PM - 5:30 PM. Tuesday, July 16th, 2024</u></li>
                 <li>
-                    <a href="https://2024summer.sigchi.kr/" target="_blank">SIGCHI Korea Local Chapter Summer Workshop</a> at Dong-eui University, Busan | 부산 동의대학교<br />
+                    <a href="https://naver.me/GEA38hdT" target="_blank">Sanhak Bldg. (#20)</a> 1st Floor, Prime Hall, Dong-eui University, Busan<br />
+                    (부산 동의대학교 <a href="https://naver.me/GEA38hdT" target="_blank">산학협력관 (건물 20)</a> 1층 프라임홀)<br />
                 </li>
                 <li>🏘️ <a href="https://2024summer.sigchi.kr/" target="_blank">https://2024summer.sigchi.kr/</a></li>
                 <li>📧 sh.kim (at) deu.ac.kr</li>
