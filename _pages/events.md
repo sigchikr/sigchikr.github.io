@@ -5,9 +5,9 @@ permalink: /events/
 ---
 <div class="col-md-12">
     <!-- <div class="card upcoming-event"> -->
-    <div class="card upcoming-event">
+    <div class="card">
         <div class="card-body">
-            <h5 class="card-title">SIGCHI Korea Summer Event 2024 (Register Now!)</h5>
+            <h5 class="card-title">SIGCHI Korea Summer Event 2024</h5>
             <ul class="card-text">
                 <li><u>2:00 PM - 5:30 PM. Tuesday, July 16th, 2024</u></li>
                 <li>
