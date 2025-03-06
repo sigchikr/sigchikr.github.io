@@ -30,17 +30,17 @@ permalink: /contact/
                 If you would like to sponsor the local chapter activities, please contact us! (<a href="mailto:@sigchi.kr">contact@sigchi.kr</a>).
             </p>
 
-            <h4>Join our Mailing List</h4>
+            <h4>Join our LinkedIn Group <i class="fab fa-linkedin-in me-2 linkedin-circle"></i></h4>
             <p>
-                Pleaes join in <em>SIGCHI Korea Mailing list</em> for the lastest news and upcoming events.<br/>
-                You can change your mind at any time by contacting us at <a href="mailto:@sigchi.kr">contact@sigchi.kr</a>. 
-                We will treat your information with respect.
-                <!--By clicking the button, you agree that we may process your information in accordance with <a href="#">Privacy Policy</a> and <a href="#">Terms</a>.-->
+                Pleaes join the
+                <span>
+                    <a href="https://www.linkedin.com/groups/14623025/" target="_blank">
+                        <strong>SIGCHI Korea Local Chapter </strong> 
+                    </a>
+                </span> on LinkedIn for the lastest news and upcoming events.<br/>
             </p>
 
-            <div style="float:right;">
-                <a href="https://forms.gle/1bsYLGhMHwjMQ35R8" target="_blank"><button type="button" class="btn btn-success"><strong>Subscribe</strong></button></a>
-            </div>
+            
 
             <br />
             <p>&nbsp;</p>

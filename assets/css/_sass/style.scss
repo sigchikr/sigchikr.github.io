@@ -47,6 +47,14 @@ footer {
   animation-duration: 1s;
   animation-iteration-count: 100;
 }
+
+.linkedin-circle {
+  color: white;                /* 아이콘 색상 */
+  background-color: #0077B5;   /* 링크드인 파란색 배경 */
+  border-radius: 15%;             
+  padding: 6px;
+}
+
 @keyframes blinking {
   50% {
     border-color: #ffcd5f;
