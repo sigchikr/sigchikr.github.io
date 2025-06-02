@@ -4,7 +4,21 @@ layout: default
 permalink: /events/
 ---
 <div class="col-md-12">
-    <!-- <div class="card upcoming-event"> -->
+    <div class="card upcoming-event">
+        <div class="card-body">
+            <h5 class="card-title">🎉 SIGCHI Korea Summer Event 2025 🎉</h5>
+            <ul class="card-text">
+                <li><u>13:00 PM - 18:00 PM. Monday, June 23th, 2025</u></li>
+                <li>
+                    #117 N1 KAIST, Daejeon<br />
+                    (117호 N1빌딩 KAIST, 대전)
+                </li>
+                <li>🏘️ <a href="https://2025summer.sigchi.kr/" target="_blank">https://2025summer.sigchi.kr/</a></li>
+                <li>📧 contact@sigchi.kr</li>
+            </ul>
+        </div>
+    </div>
+    <br> 
     <div class="card">
         <div class="card-body">
             <h5 class="card-title">🎉 SIGCHI Korea Winter Event 2025 🎉</h5>
