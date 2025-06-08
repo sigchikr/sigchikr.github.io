@@ -8,7 +8,7 @@ permalink: /events/
         <div class="card-body">
             <h5 class="card-title">🎉 SIGCHI Korea Summer Event 2025 🎉</h5>
             <ul class="card-text">
-                <li><u>13:00 PM - 18:00 PM. Monday, June 23th, 2025</u></li>
+                <li><u>13:00 PM - 20:00 PM. Tuesday, June 24th, 2025</u></li>
                 <li>
                     #117 N1 KAIST, Daejeon<br />
                     (117호 N1빌딩 KAIST, 대전)
