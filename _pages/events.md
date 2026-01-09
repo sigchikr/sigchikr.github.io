@@ -6,7 +6,23 @@ permalink: /events/
 <div class="col-md-12">
     <div class="card upcoming-event">
         <div class="card-body">
-            <h5 class="card-title">🎉 SIGCHI Korea Summer Event 2025 🎉</h5>
+            <h5 class="card-title">SIGCHI Korea Winter Event 2026 🎉</h5>
+            <p>HCI KOREA 2026 Invited Papers Program from 2025 SIGCHI-sponsored Top Conferences</p>
+            <ul class="card-text">
+                <li><u>13:30 PM - 16:20 PM. Tuesday, January 27th, 2026</u></li>
+                <li>
+                    Grand Ballroom 2, Sono Belle Vivaldi Park, Hongcheon | HCI Korea 2026 Workshop <br />
+                    (그랜드볼룸 2, 소노벨 비발디파크, 홍천 | HCI Korea 2026 워크숍)
+                </li>
+                <li>🏘️ <a href="https://2026winter.sigchi.kr/" target="_blank">https://2026winter.sigchi.kr/</a></li>
+                <li>📧 contact@sigchi.kr</li>
+            </ul>
+        </div>
+    </div>
+    <br>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">SIGCHI Korea Summer Event 2025</h5>
             <ul class="card-text">
                 <li><u>13:00 PM - 20:00 PM. Tuesday, June 24th, 2025</u></li>
                 <li>
@@ -21,7 +37,7 @@ permalink: /events/
     <br> 
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">🎉 SIGCHI Korea Winter Event 2025 🎉</h5>
+            <h5 class="card-title">SIGCHI Korea Winter Event 2025</h5>
             <ul class="card-text">
                 <li><u>9:15 PM - 18:15 PM. Tuesday, February 11th, 2025</u></li>
                 <li>
