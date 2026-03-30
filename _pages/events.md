@@ -4,7 +4,8 @@ layout: default
 permalink: /events/
 ---
 <div class="col-md-12">
-    <div class="card upcoming-event">
+    <!--<div class="card upcoming-event">-->
+    <div class="card">
         <div class="card-body">
             <h5 class="card-title">SIGCHI Korea Winter Event 2026 🎉</h5>
             <p>HCI KOREA 2026 Invited Papers Program from 2025 SIGCHI-sponsored Top Conferences</p>
