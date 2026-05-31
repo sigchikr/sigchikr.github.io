@@ -4,10 +4,24 @@ layout: default
 permalink: /events/
 ---
 <div class="col-md-12">
-    <!--<div class="card upcoming-event">-->
+    <div class="card upcoming-event">
+        <div class="card-body">
+            <h5 class="card-title">SIGCHI Korea Summer Event 2026 (Upcoming 🎉)</h5>
+            <ul class="card-text">
+                <li><u>13:00 PM - 20:00 PM. Tuesday, June 23th, 2026</u></li>
+                <li>
+                    Yongjae Hall (B1), #212 School of Business. Yonsei University<br />
+                    용재홀 (B1), 212동 경영관. 연세대학교
+                </li>
+                <li>🏘️ <a href="https://2026summer.sigchi.kr/" target="_blank">https://2026summer.sigchi.kr/</a></li>
+                <li>📧 contact@sigchi.kr</li>
+            </ul>
+        </div>
+    </div>
+    <br>
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">SIGCHI Korea Winter Event 2026 🎉</h5>
+            <h5 class="card-title">SIGCHI Korea Winter Event 2026</h5>
             <p>HCI KOREA 2026 Invited Papers Program from 2025 SIGCHI-sponsored Top Conferences</p>
             <ul class="card-text">
                 <li><u>13:30 PM - 16:20 PM. Tuesday, January 27th, 2026</u></li>
