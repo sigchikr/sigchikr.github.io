@@ -4,7 +4,8 @@ layout: default
 permalink: /events/
 ---
 <div class="col-md-12">
-    <div class="card upcoming-event">
+    <!--<div class="card upcoming-event">-->
+    <div class="card">
         <div class="card-body">
             <h5 class="card-title">SIGCHI Korea Summer Event 2026 (Upcoming 🎉)</h5>
             <ul class="card-text">
