@@ -7,7 +7,7 @@ permalink: /events/
     <!--<div class="card upcoming-event">-->
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">SIGCHI Korea Summer Event 2026 (Upcoming 🎉)</h5>
+            <h5 class="card-title">SIGCHI Korea Summer Event 2026</h5>
             <ul class="card-text">
                 <li><u>13:00 PM - 20:00 PM. Tuesday, June 23th, 2026</u></li>
                 <li>
